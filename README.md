@@ -160,7 +160,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Single Player Tarkov](https://github.com/sp-tarkov/server) `TypeScript/NCSA`
     * 🟥 [C# Rewrite](https://github.com/sp-tarkov/server-csharp) `C#/CC-BY-NC-SA-4.0`
-* 🟩 [SP-Tushonka](https://github.com/SP-Tushonka/server-csharp) `C#/MPL-2.0`
+* 🟩 [SP-Tushonka](https://github.com/SP-Tushonka/server-csharp) `C#/CC BY-NC-SA 4.0`
 
 ---
 
