@@ -15,6 +15,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
 * [Contents](#contents) - basic details
 * [General](#general) - game-agnostic software
 * [Games](#games) - software for specific games
+    * [ALLfiring (2026)](#allfiring-2026)
     * [Among Us (2018)](#among-us-2018)
     * [Arcaea (2017)](#arcaea-2017)
     * [Arknights (2019)](#arknights-2019)
@@ -66,6 +67,15 @@ Different server implementations will be categorized by the games that they're u
 * 🟩 [Pretendo](https://github.com/PretendoNetwork) `Multiple languages/AGPL-3.0` - Open source Nintendo Network replacement server for the WiiU and 3DS
 
 ## Games
+
+### ALLfiring (2026)
+
+> [!NOTE]
+> Developed and published by Genmugame.
+
+* 🟩 [garcia](https://github.com/yoncodes/garcia) `Rust`
+
+---
 
 ### Among Us (2018)
 
@@ -288,6 +298,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [AscNet](https://github.com/rafi1212122/AscNet) `C#/ARR`
     * 🟥 [Lucia](https://github.com/yoncodes/Lucia)
+    * 🟩 [InfiniteLoop](https://github.com/reiserFSs/InfiniteLoop)
 
 ---
 
