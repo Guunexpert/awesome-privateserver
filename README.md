@@ -226,6 +226,7 @@ Different server implementations will be categorized by the games that they're u
     * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)[^4]
 * 🟥 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
+* 🟩 [Pearl-SR](https://git.xeondev.com/HonkaiSlopRail/pearl-sr) `Zig/No License`
 
 ---
 
